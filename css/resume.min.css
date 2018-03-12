@@ -121,3 +121,6 @@ a{
 a:active,a:focus,a:hover{
     color:#004085
 }
+p,li{
+  color: black !important;
+}
